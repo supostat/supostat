@@ -27,8 +27,9 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [zodra](https://github.com/supostat/zodra) | E2E type system for Rails — generates TypeScript interfaces and Zod schemas from Ruby DSL | Ruby |
-| [dokku-manager](https://github.com/supostat/dokku-manager) | Terminal UI for managing Dokku PaaS servers via SSH | Rust |
-| [rft-cli](https://github.com/supostat/rft-cli) | CLI utility | Rust |
+| [Custos](https://github.com/supostat/Custos) | Plugin-based authentication for Ruby on Rails | Ruby |
+| [rft-cli](https://github.com/supostat/rft-cli) | Zero-config Docker Compose isolation for git worktrees — unique ports, parallel stacks, MCP integration | Rust |
+| [node-modules-remover](https://github.com/supostat/node-modules-remover) | Fast recursive node_modules cleanup | Rust |
 
 ---
 
