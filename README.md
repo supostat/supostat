@@ -35,7 +35,7 @@
 ## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats-deploy-liart.vercel.app/api/top-langs/?username=supostat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-deploy-liart.vercel.app/api/top-langs/?username=supostat&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&v=2" alt="Most Used Languages" />
 </p>
 
 <p>
